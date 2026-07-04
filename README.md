@@ -4,7 +4,7 @@
 This project analyzes the **Superstore Dataset** using **SQL Server**.
 The aim is to derive meaningful business insights with **advanced SQL queries** such as:
 - Total Sales & Profit trends
-- Top & second-highest performing products
+- Top & second-highest performing products 
 - Customer purchase behavior
 - Shipping performance
 
